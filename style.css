@@ -1,24 +1,31 @@
 body{
     background-color: #ecf8ff ;
 }
+img {
+    width: 100%;
+}
+main {
+    width: 900px;;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 header{
-
+    text-align: center;
 }
 
-#recipe {
-
+.ingredient-list {
+float: left;
 }
 
-aside{
-
-}
-
-section {
-
+.how-to {
+float: right;
+width: 600px;
 }
 
 footer {
-
+clear: both;
+text-align: right;
 }
 
 h1 {
