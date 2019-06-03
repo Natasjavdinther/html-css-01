@@ -25,18 +25,10 @@ h1 {
     color: rgb(0, 100, 100);
 }
 
-h2 {
-    color: rgb(65, 119, 119)
+h2, ul {
+    color: rgb(65, 119, 119);
 }
 
-h3 {
-    color: rgb(124, 148, 148)
-}
-
-p {
-    color: rgb(124, 148, 148)
-}
-
-ul {
-    color: rgb(65, 119, 119)
+h3, p {
+    color: rgb(124, 148, 148);
 }
