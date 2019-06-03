@@ -1,5 +1,5 @@
 body{
-    background-color: grey
+    background-color: #ecf8ff ;
 }
 header{
 
@@ -19,4 +19,24 @@ section {
 
 footer {
 
+}
+
+h1 {
+    color: rgb(0, 100, 100);
+}
+
+h2 {
+    color: rgb(65, 119, 119)
+}
+
+h3 {
+    color: rgb(124, 148, 148)
+}
+
+p {
+    color: rgb(124, 148, 148)
+}
+
+ul {
+    color: rgb(65, 119, 119)
 }
